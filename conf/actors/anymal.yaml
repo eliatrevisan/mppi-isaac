@@ -1,0 +1,7 @@
+type: robot
+name: anymal
+urdf_file: "anymal/anymal.urdf"
+ee_link: "base_face_front"
+fixed: True
+flip_visual: true
+gravity: true
